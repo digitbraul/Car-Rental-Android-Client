@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/cars_page"
+        android:enabled="true"
+        android:icon="@drawable/vehicle_icon"
+        android:title="Cars"/>
+    <item
+        android:id="@+id/bookings_page"
+        android:enabled="true"
+        android:icon="@drawable/book_icon"
+        android:title="Bookings"/>
+    <item
+        android:id="@+id/profile_page"
+        android:enabled="true"
+        android:icon="@drawable/profile_icon"
+        android:title="Profile"/>
+</menu>
